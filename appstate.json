@@ -1,0 +1,98 @@
+[
+  {
+    "key": "ps_l",
+    "value": "1",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "fbl_st",
+    "value": "101427917%3BT%3A29629604",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "pas",
+    "value": "61567402463169%3AnyQwi6xDLU",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "40%3A_hkGH4P2t39jOA%3A2%3A1777702310%3A-1%3A-1",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "ps_n",
+    "value": "1",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "locale",
+    "value": "vi_VN",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "datr",
+    "value": "rJX1aQQD2dZUlQUBbze2m7qD",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "fr",
+    "value": "0ru7ft6XMzYYg81Jb.AWeV6r14mHICcYktZ83K4S0Gb6LX52Hpiy1is8EvWNh3XLum4TU.Bp9ZU_..AAA.0.0.Bp9raS.AWeHVRMBxQmRkzpxTNXSIlZBlwk",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "c_user",
+    "value": "61567402463169",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "wl_cbv",
+    "value": "v2%3Bclient_version%3A3157%3Btimestamp%3A1777776275",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "vpd",
+    "value": "v1%3B565x375x3",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "sb",
+    "value": "rZX1aQLtBaU0XQ9mIWQeEOSv",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  }
+]
